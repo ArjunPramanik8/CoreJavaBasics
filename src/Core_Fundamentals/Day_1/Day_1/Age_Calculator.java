@@ -1,4 +1,4 @@
-package Core_Fundamentals.Day_1;
+package Core_Fundamentals.Day_1.Day_1;
 
 public class Age_Calculator {
     public static void main(String[] args) {

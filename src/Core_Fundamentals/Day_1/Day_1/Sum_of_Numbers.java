@@ -1,4 +1,4 @@
-package Core_Fundamentals.Day_1;
+package Core_Fundamentals.Day_1.Day_1;
 
 public class Sum_of_Numbers {
     public static void main(String[] args) {
