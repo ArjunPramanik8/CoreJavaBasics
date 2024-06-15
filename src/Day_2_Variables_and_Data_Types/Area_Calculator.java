@@ -1,4 +1,4 @@
-package Day_2;
+package Day_2_Variables_and_Data_Types;
 
 public class Area_Calculator {
     public static void main(String[] args) {

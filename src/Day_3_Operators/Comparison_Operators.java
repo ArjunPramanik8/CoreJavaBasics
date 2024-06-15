@@ -1,4 +1,4 @@
-package Day_2;
+package Day_3_Operators;
 
 public class Comparison_Operators {
     public static void main(String[] args) {
