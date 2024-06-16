@@ -14,6 +14,7 @@ public class Number_Guessing_Game
         System.out.println("Please Guess your number between 1 to 20");
         int guess = sc.nextInt();
 
+
         if(guess == targetNumber)
         {
             System.out.println("Congratulations! You guessed the number.");
