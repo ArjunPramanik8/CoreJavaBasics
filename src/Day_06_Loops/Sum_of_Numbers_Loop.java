@@ -10,6 +10,7 @@ public class Sum_of_Numbers_Loop
         {
             sum+=i;
         }
+
         System.out.println("The sum of numbers from 1 to 10 is: " + sum);
     }
 }
