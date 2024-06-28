@@ -7,6 +7,7 @@ public static void main(String[] args) {
 
 
         String name="Swami Vivekananda";
+
         // fetching the length : counting the number of characters
         int l= name.length();
     System.out.println("The length of the string is"+ l);
