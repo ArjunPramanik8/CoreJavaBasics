@@ -22,4 +22,5 @@ public class Even_Odd_Checker
         sc.close();
     }
 
+
 }
