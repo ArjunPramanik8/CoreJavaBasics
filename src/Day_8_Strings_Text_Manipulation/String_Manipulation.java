@@ -11,6 +11,5 @@ public class String_Manipulation {
         String Sentence2 = sentence.substring(0,6);
         System.out.println(Sentence2 );
 
-
     }
 }
