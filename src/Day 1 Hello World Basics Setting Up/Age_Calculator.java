@@ -9,5 +9,6 @@ public class Age_Calculator {
         int age = currentYear - birthYear;
 
         System.out.println("Your age is: " + age);
+
     }
 }

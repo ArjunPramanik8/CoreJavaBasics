@@ -18,6 +18,7 @@ public class Discount_Calculator
         System.out.println("Final Price After Discount: RS"+ final_Price);
 
         sc.close();
+
     }
 
 
