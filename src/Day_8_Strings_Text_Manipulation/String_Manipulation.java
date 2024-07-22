@@ -3,7 +3,6 @@ package Day_8_Strings_Text_Manipulation;
 public class String_Manipulation {
     public static void main(String[] args) {
 
-
         String sentence="We are coding";
 
         System.out.println(sentence.toUpperCase());
