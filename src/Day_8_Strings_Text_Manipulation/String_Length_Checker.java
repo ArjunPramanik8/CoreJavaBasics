@@ -5,7 +5,6 @@ public class String_Length_Checker
 {
 public static void main(String[] args) {
 
-
         String name="Swami Vivekananda";
 
         // fetching the length : counting the number of characters
