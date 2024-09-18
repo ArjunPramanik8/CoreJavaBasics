@@ -1,5 +1,3 @@
-package Question_Solutions;
-
 import java.util.Scanner;
 
 public class Palindrome_Number_method1
