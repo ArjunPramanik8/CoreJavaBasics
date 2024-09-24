@@ -10,7 +10,6 @@ public class Name_Greeter {
         String name = sc.nextLine();
         
         System.out.println("Hello,"+ name + "!");
-
         sc.close();
     }
 }
