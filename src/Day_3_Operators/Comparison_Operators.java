@@ -8,9 +8,7 @@ public class Comparison_Operators {
 
         // Comparison operators return true or false
         System.out.println(num1 == num2); // Equal to (false)
-
         System.out.println(num1 != num2); // Not equal to (true)
-
         System.out.println(num1 < num2); // Less than (true)
     }
 }
