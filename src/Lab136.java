@@ -39,9 +39,6 @@ public class Lab136 {
         int sum_result = function_type4(a,5);
         System.out.println("O/P -> "+sum_result);
 
-
-
-
     }
 
     //  1.Without Parameters and Without Return Type
