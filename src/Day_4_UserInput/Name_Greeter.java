@@ -8,9 +8,8 @@ public class Name_Greeter {
         Scanner sc= new Scanner(System.in);
         System.out.println("Please enter you name");
         String name = sc.nextLine();
-
+        
         System.out.println("Hello,"+ name + "!");
-
 
         sc.close();
     }
