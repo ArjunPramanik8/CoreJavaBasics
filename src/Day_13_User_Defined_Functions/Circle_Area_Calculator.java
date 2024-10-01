@@ -8,7 +8,7 @@ public class Circle_Area_Calculator {
         }
         return Math.PI * radius * radius;
     }
-
+    
     public static void main(String[] args) {
         double radius = 5.0;
         double area = calculateArea(radius);
