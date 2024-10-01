@@ -4,7 +4,8 @@ import java.util.Scanner;
 
 public class Password_Validator {
 
-    public static boolean isValidPassword(String password) {
+    public static boolean isValidPassword(String password) 
+    {
         int minLength = 8; // Minimum password length
         boolean hasUppercase = false;
         boolean hasLowercase = false;
