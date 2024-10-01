@@ -10,7 +10,6 @@ public class Multiplication_Table_2D_Array {
                 multiplicationTable[i][j] = (i + 1) * (j + 1);
             }
         }
-
         // Print the table
         for (int i = 0; i < 10; i++) {
             for (int j = 0; j < 10; j++) {
