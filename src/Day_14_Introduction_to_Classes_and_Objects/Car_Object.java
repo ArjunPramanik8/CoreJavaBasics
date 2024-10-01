@@ -6,7 +6,8 @@ public class Car_Object
     int year;
     double price;
 
-    public Car_Object(String model, int year, double price) { // Constructor to initialize object
+    public Car_Object(String model, int year, double price) { 
+        // Constructor to initialize object
         this.model = model;
         this.year = year;
         this.price = price;
