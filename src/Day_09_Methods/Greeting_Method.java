@@ -8,7 +8,8 @@ public class Greeting_Method
         System.out.println("Hello,"+ name + "!");
     }
 
-    public static void main(String[] args) {
+    public static void main(String[] args) 
+    {
         greet("Hare Krishna");
     }
 }
