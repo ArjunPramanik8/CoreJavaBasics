@@ -1,5 +1,4 @@
 package Day_06_Loops;
-
 import java.sql.SQLOutput;
 
 public class Multiplication_Table
