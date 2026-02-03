@@ -10,6 +10,7 @@ This repository is designed to be your comprehensive guide to mastering Core Jav
 
 Over the course of 100 days, you'll be guided through 200 carefully crafted Java programs that progressively build your understanding. Here's a glimpse of the key areas covered:
 
+
 ### Day 1-20: Foundational Concepts
 - Setting up your Java development environment
 - Basic syntax, variables, data types, operators
