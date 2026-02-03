@@ -52,5 +52,6 @@ Over the course of 100 days, you'll be guided through 200 carefully crafted Java
 ### Contributing to the Repository
 We encourage contributions to improve this repository for the benefit of the entire Java learning community. If you have suggestions, corrections, or new program ideas, feel free to create a pull request.
 
+
 ## Stay Motivated!
 
