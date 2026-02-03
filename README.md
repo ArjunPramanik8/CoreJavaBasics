@@ -7,7 +7,6 @@ Welcome!
 This repository is designed to be your comprehensive guide to mastering Core Java, structured in a way that makes the learning process engaging and efficient. Whether you're a complete beginner or looking to refresh your skills, you'll find a well-paced curriculum that takes you from the fundamentals to advanced topics.
 
 *What You'll Learn*
-
 Over the course of 100 days, you'll be guided through 200 carefully crafted Java programs that progressively build your understanding. Here's a glimpse of the key areas covered:
 
 
