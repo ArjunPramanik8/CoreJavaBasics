@@ -41,7 +41,6 @@ Over the course of 100 days, you'll be guided through 200 carefully crafted Java
 - Flexibility: Feel free to adjust the pace based on your learning speed.
 - Community Support: If you get stuck, don't hesitate to reach out to online communities for help.
 
-
 ### Getting Started
 
 1.*Prerequisites:* A basic understanding of computers and programming concepts would be beneficial.
