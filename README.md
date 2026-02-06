@@ -1,4 +1,4 @@
-# Core Java Basics
+8# Core Java Basics
 
 ## Core Java Learning Journey: 100 Days, 200 Programs (README.md)
 
@@ -40,6 +40,7 @@ Over the course of 100 days, you'll be guided through 200 carefully crafted Java
 - Clear Explanations and Comments: Well-commented code and accompanying explanations enhance comprehension.
 - Flexibility: Feel free to adjust the pace based on your learning speed.
 - Community Support: If you get stuck, don't hesitate to reach out to online communities for help.
+
 
 ### Getting Started
 
