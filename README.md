@@ -30,6 +30,7 @@ Over the course of 100 days, you'll be guided through 200 carefully crafted Java
 - Understanding core data structures (lists, stacks, queues, trees, maps)
 - Implementing fundamental algorithms with Java
 
+
 ### Day 81-100: Collections Framework and File I/O
 - Exploring the rich Collections Framework in Java
 - Working with files and directories: reading, writing, manipulating data
