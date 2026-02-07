@@ -1,6 +1,5 @@
 8# Core Java Basics
 
-
 ## Core Java Learning Journey: 100 Days, 200 Programs (README.md)
 
 Welcome!
