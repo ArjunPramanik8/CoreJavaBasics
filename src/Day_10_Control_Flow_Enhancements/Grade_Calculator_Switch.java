@@ -12,7 +12,6 @@ public class Grade_Calculator_Switch {
 
         String letterGrade = getLetterGrade(grade); // Call the method
         System.out.println("Your letter grade is: " + letterGrade);
-
         scanner.close();
     }
 
