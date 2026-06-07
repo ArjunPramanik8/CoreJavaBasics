@@ -9,7 +9,6 @@ public class Average_Calculator {
         for (int i = 0; i <n.length ; i++)
 
         {   s+=n[i];
-
         }
  double average=(double) s/ n.length;
         System.out.println("Average of the given number is:" + average);
