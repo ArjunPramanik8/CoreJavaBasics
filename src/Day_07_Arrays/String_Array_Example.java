@@ -9,7 +9,6 @@ public class String_Array_Example
         for(int i = 0; i < fruits.length; i++)
         {
             System.out.println(fruits[i]);
-
         }
     }
 }
