@@ -6,7 +6,6 @@ public class Grade_Calculator_Switch {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-
         System.out.print("Enter your grade (percentage): ");
         int grade = scanner.nextInt();
 
