@@ -12,7 +12,7 @@ public class Multiplication_Table
         {
             int product= number * i;
             System.out.println(number +"*"+ i +"="+ product);
-        
+    
         }
     }
 }
