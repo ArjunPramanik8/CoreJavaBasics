@@ -8,7 +8,6 @@ public class Age_Calculator {
         // Calculate current age (assuming year is 2024)
         int currentYear = 2024;
         int age = currentYear - birthYear;
-
         System.out.println("Your age is: " + age);
 
     }
