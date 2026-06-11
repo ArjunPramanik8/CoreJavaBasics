@@ -18,7 +18,7 @@ public class Invoice_Generator {
             total += itemTotal;
 
             System.out.println(items[i] + "\t$" + prices[i] + "\t" + quantities[i] + "\t$" + String.format("%.2f", itemTotal));
-            
+        
         }
         
         System.out.println("----------------------------------");
