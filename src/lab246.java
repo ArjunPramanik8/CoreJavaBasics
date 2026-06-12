@@ -9,7 +9,6 @@ public class Lab103 {
         // , Negative,
         // or Zero.
 
-
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter yur number!");
         int num = sc.nextInt();
