@@ -13,7 +13,6 @@ public class Lab104 {
         System.out.println("Enter the Num 3");
         int num3 = sc.nextInt();
 
-
         // num 1 > num2 && num1 > num3 ->  num1
         // num 2 > num1 && num2 > num3 ->  num2
         // num 3
