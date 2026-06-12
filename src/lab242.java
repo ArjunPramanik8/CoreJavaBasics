@@ -15,7 +15,7 @@ public class Lab104 {
 
         // num 1 > num2 && num1 > num3 ->  num1
         // num 2 > num1 && num2 > num3 ->  num2
-        // num 3
+        // num 3 
 
         if (num1 >= num2 && num1 >= num3) {
             System.out.println(num1);
