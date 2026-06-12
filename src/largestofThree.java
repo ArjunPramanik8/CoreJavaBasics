@@ -18,7 +18,6 @@ public class largestofThree {
 
 
 
-
         int largest = (Num1>Num2)? (Num1>Num3?Num1:Num3):(Num2>Num3?Num2:Num3);
         System.out.println("The largest  number is: " + largest);
 
